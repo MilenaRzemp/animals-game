@@ -1,0 +1,282 @@
+﻿[
+	{
+		"area": "Europa",
+		"animal": "JEŻ",
+		"question": "Lubię nocne wędrówki, mam ciało pokryte kolcami i gdy się boję, zwijam się w kulkę",
+		"task": "Turlaj się jak jeż zwinięty w kulkę!",
+		"photo": "https://images.unsplash.com/photo-1605369179729-4036b4d829cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2090&q=80",
+		"source": "unsplash.com/@alexas_fotos"
+	},
+	{
+		"area": "Europa",
+		"animal": "WIEWIÓRKA",
+		"question": "Jestem rudą mieszkanką lasu i uwielbiam orzechy",
+		"task": "Wiewiórki bardzo sprawnie wspinają się na drzewa. A Ty, jak wysoko potrafisz się wspiąć? Znajdź bezpieczny, wysoki obiekt i wspinaj się!",
+		"photo": "https://images.unsplash.com/photo-1607599193024-de4a7601aefc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Włodzimierz Jaworski (unsplash.com/@sparrow24)"
+	},
+	{
+		"area": "Europa",
+		"animal": "BÓBR",
+		"question": "Jestem z tego znany, że buduję tamy",
+		"task": "Pozycją obronną bobra jest uderzanie ogonem o ziemię. Uderzaj dłońmi o podłogę. Może uda ci się wybić jakiś rytm?",
+		"photo": "https://images.unsplash.com/photo-1609377419340-9dd8aabe3825?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Francesco Ungaro (unsplash.com/@francesco_ungaro)"
+	},
+	{
+		"area": "Europa",
+		"animal": "BOCIAN",
+		"question": "Jestem bardzo znanym ptakiem, przylatuję do Polski na wiosnę. Jestem duży i biało-czarny, mam czerwone nogi i dziób",
+		"task": "Charakterystyczną postawą bociana jest stanie na jednej nodze. Stań na jednej nodze i policz do dziesięciu",
+		"photo": "https://images.unsplash.com/photo-1612986798243-1f5d421715e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Rijk van de Kaa (unsplash.com/@121154satw)"
+	},
+	{
+		"area": "Europa",
+		"animal": "LIS",
+		"question": "Rudy ojciec, rudy dziadek, Rudy ogon - to mój spadek, A ja jestem rudy…*",
+		"task": "Udawaj lisa, skradaj się i skocz nurkując po swoją zdobycz",
+		"photo": "https://images.unsplash.com/photo-1562961799-8e7ea406c781?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Zdeněk Macháček (unsplash.com/@zmachacek) *w pytaniu wykorzystano fragment wiersza Jana Brzechwy LIS"
+	},
+	{
+		"area": "Ameryka Płd",
+		"animal": "KOLIBER",
+		"question": "Jestem najmniejszym ptakiem świata, a także mistrzem lotu. Potrafię zawisnąć w powietrzu, latać na boki oraz do tyłu",
+		"task": "Koliber spija nektar kwiatów, zawisając nieruchomo w powietrzu. Czy potrafisz machać rękami, ruszać nogami, wykonywać taneczne ruchy, trzymając przy tym głowę nieruchomo?",
+		"photo": "https://images.unsplash.com/photo-1520638023360-6def43369781?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "James Wainscoat (unsplash.com/@tumbao1949)"
+	},
+	{
+		"area": "Ameryka Płd",
+		"animal": "TUKAN",
+		"question": "Jestem ptakiem z bardzo dużym, charakterystycznym dziobem, który stanowi około ⅓ długości mojego ciała. Tuk tuk! Kto tam?",
+		"task": "Poczuj się jak tukan i zrób sobie długi dziób ze swoich rąk. Przyłóż ramiona do twarzy, kiwaj głową na boki, kłap “dziobem” i podskakuj jak ten ptak",
+		"photo": "https://images.unsplash.com/photo-1552761047-68f241b7aef4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Carmel Arquelau (unsplash.com/@kkpsi)"
+	},
+	{
+		"area": "Ameryka Płd",
+		"animal": "ALPAKA",
+		"question": "Moją słynną i większą kuzynką jest lama. Pochodzę z Andów, ale łatwo się przystosowuję i coraz częściej hodują mnie na całym świecie, także w Polsce",
+		"task": "Kontakt z alpakami wpływa na człowieka kojąco, dlatego zwierzęta te uczestniczą w terapii, zwanej alpakoterapią. Dzięki nim można się wyciszyć, obniżyć stres. A jaki jest twój sposób na uspokojenie emocji? Odpowiednie oddychanie, a może coś innego? Opowiedz i zademonstruj w jaki sposób uspokajasz się",
+		"photo": "https://images.unsplash.com/photo-1572297982753-48c028401d18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+		"source": "Josiah Farrow (unsplash.com/@josiahfarrow)"
+	},
+	{
+		"area": "Ameryka Płd",
+		"animal": "PANCERNIK",
+		"question": "Posiadam pancerz, który mnie chroni niczym zbroja rycerza. Gdy czuję się zagrożony, potrafię się zwinąć w kulkę, przypominam wtedy bardzo twardą piłkę",
+		"task": "Potrafisz zwinąć się w kulkę jak pancernik? Znajdź miękkie podłoże i poturlaj się niczym żywa piłka",
+		"photo": "https://images.unsplash.com/photo-1589897397760-9eb1dd2f3091?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+		"source": "Joe Lemm (unsplash.com/@joelemm)"
+	},
+	{
+		"area": "Ameryka Płd",
+		"animal": "LENIWIEC TRÓJPALCZASTY",
+		"question": "Jestem wyjątkowo powolnym ssakiem. Większość mojego życia spędzam wisząc na drzewie. Jem głównie liście i robię kupę tylko raz w tygodniu",
+		"task": "Udawaj, że biegniesz, ale zrób to bardzo powoli, w stylu leniwca. Zrób kilka kroków ostrożnie i powoli podnosząc nogi i ruszając rękami",
+		"photo": "https://images.unsplash.com/photo-1509243271451-2b84555736ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+		"source": "Javier Mazzeo (unsplash.com/@javier365)"
+	},
+	{
+		"area": "Ameryka Płn",
+		"animal": "BIELIK AMERYKAŃSKI",
+		"question": "Jestem ptakiem oraz symbolem narodowym Stanów Zjednoczonych. Moje ciało jest koloru brązowego, a głowa i ogon są białe. Jestem dzielnym budowniczym, moje gniazda są największe wśród ptaków Ameryki Północnej",
+		"task": "Poczuj się jak bielik amerykański. Machaj mocno ramionami, jednocześnie podskakując.Zrób 10 podskoków z wymachami",
+		"photo": "https://images.unsplash.com/photo-1575350126138-9259890f965a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Richard Lee (unsplash.com/@brock222)"
+	},
+	{
+		"area": "Ameryka Płn",
+		"animal": "GRIZZLY",
+		"question": "Jestem niedźwiedziem, który żyje głównie na Alasce. Mam bardzo długie pazury. Lubię polować na łososie płynące w górę strumienia",
+		"task": "Niedźwiedzie grizzly są bardzo duże i ciężkie, ale potrafią bardzo szybko biegać. Stań na wyprostowanych nogach, oprzyj ręce na ziemi i spróbuj biec tak szybko jak potrafisz!",
+		"photo": "https://images.unsplash.com/44/MIbCzcvxQdahamZSNQ26_12082014-IMG_3526.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Thomas Lefebvre (unsplash.com/@magellol)"
+	},
+	{
+		"area": "Ameryka Płn",
+		"animal": "SKUNKS",
+		"question": "Mam puszystą czarną sierść z białymi pasami. Jak mnie zdenerwujesz, czeka nie ciebie śmierdząca niespodzianka",
+		"task": "Mechanizmem obronnym skunksa jest wystrzelenie bardzo brzydko pachnącej substancji w kierunku przeciwnika. Jakie znasz brzydko pachnące rzeczy? A jakie są twoje ulubione zapachy?",
+		"photo": "https://images.unsplash.com/photo-1618701792817-7350475c6d2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"source": "Elisa Stone (unsplash.com/@ecjs)"
+	},
+	{
+		"area": "Ameryka Płn",
+		"animal": "SZOP PRACZ",
+		"question": "Mam na pyszczku maskę niczym złodziej, paski na ogonie tak jak lemur. Podobno jestem specjalistą od prania, chociaż nie umiem obsługiwać pralki",
+		"task": "Zaobserwowano, że szopy czasem płuczą jedzenie w wodzie, stąd wzięła się ich nazwa. Udawaj, że pierzesz: pocieraj piąstkami 3 razy, następnie 3 razy machaj nimi w dół: POCIERAMY, POCIERAMY, POCIERAMY, DÓŁ, DÓŁ, DÓŁ. Zrób tak 5 razy",
+		"photo": "https://images.unsplash.com/photo-1615812214207-34e3be6812df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Chris Ensminger (unsplash.com/@viramedio)"
+	},
+	{
+		"area": "Ameryka Płn",
+		"animal": "ZAJĄC POLARNY",
+		"question": "Mieszkam w mroźnej krainie, dlatego mam bardzo ciepłe, puszyste futerko. Aby się schować wśród śniegów, jestem biały. Mam długie uszy, żeby nasłuchiwać zagrożenia i robię długie skoki, by szybko uciekać",
+		"task": "Kicaj tak jak zając",
+		"photo": "https://images.unsplash.com/photo-1613239324203-ac111d5cbadc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1125&q=80",
+		"source": "Isaac Demeester (unsplash.com/@demeester)"
+	},
+	{
+		"area": "Afryka",
+		"animal": "SŁOŃ",
+		"question": "Jestem największym (najcięższym) zwierzęciem lądowym na świecie. Czy już wiesz jak się nazywam? Jeśli nie, to podpowiem jeszcze, że mam bardzo długą trąbę",
+		"task": "Trąba słonia jest bardzo silna oraz zwinna. Użyj swojej ręki w podobny sposób, w jaki słoń używa trąby. Weź drobny przedmiot, tworząc szczypce z palców i przenieś go na odległość metra. Następnie weź duży przedmiot, owiń rękę wokół niego i również przenieś, tym razem na odległość 2 metrów",
+		"photo": "https://images.unsplash.com/photo-1603483080228-04f2313d9f10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"source": "Geran de Kler (unsplash.com/@gerandeklerk)"
+	},
+	{
+		"area": "Afryka",
+		"animal": "ŻYRAFA",
+		"question": "Jestem najwyższym zwierzęciem lądowym. Wiele rzeczy robię na stojąco, potrafię sobie nawet uciąć drzemkę w tej pozycji",
+		"task": "Żyrafy piją wodę, rozkładając szeroko nogi i pochylając głowę. Spróbuj, podobnie do żyrafy, rozłożyć szeroko nogi i pochylić się, starając się dotknąć głową do podłogi. Jak nisko się pochylisz bez podpierania się rękami? Uważaj, żeby nie stracić równowagi!",
+		"photo": "https://images.unsplash.com/photo-1589306661079-8b34ef390d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Mike Prince (unsplash.com/@mjpringles)"
+	},
+	{
+		"area": "Afryka",
+		"animal": "LEW",
+		"question": "Zwą mnie królem dżungli. Jako jedyny ze swojej rodziny żyję i poluję w stadzie",
+		"task": "Ryk lwa jest niezwykle głośny, czasem bywa niemal tak głośny, jak grzmot i potrafi być słyszalny z odległości 8 km! A Ty jak głośno potrafisz zaryczeć?",
+		"photo": "https://images.unsplash.com/photo-1590668468552-d87c3a011afb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+		"source": "Ansie Potgieter (unsplash.com/@ansiep)"
+	},
+	{
+		"area": "Afryka",
+		"animal": "ZEBRA",
+		"question": "Jestem podobna do konia. Wyróżnia mnie to, że jestem czarna w białe pasy",
+		"task": "Zebra broni się, bardzo mocno kopiąc tylnymi kończynami. Oprzyj ręce na podłoże i zrób wykop w powietrze. Jak wysoko potrafisz unieść nogi?",
+		"photo": "https://images.unsplash.com/photo-1526095179574-86e545346ae6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80",
+		"source": "Jeff Griffith (unsplash.com/@grifjef)"
+	},
+	{
+		"area": "Afryka",
+		"animal": "PODSKOCZEK EGIPSKI (SKOCZEK PUSTYNNY)",
+		"question": "Wyglądam jak myszka z bardzo długimi nogami i potrafię bardzo wysoko skakać wzwyż i w dal",
+		"task": "Podskoczek jest mistrzem skakania. Skacz najwyżej i najdalej jak potrafisz. Czy uda ci się skakać raz w lewo raz w prawo, jak po śladzie zygzaka?",
+		"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jaculus_jaculus.jpg/1280px-Jaculus_jaculus.jpg",
+		"source": "Elias Neideck (commons.wikimedia.org/wiki/File:Jaculus_jaculus.jpg)"
+	},
+	{
+		"area": "Australia",
+		"animal": "EMU",
+		"question": "Jestem bardzo podobny do strusia, lecz moim domem jest Australia. Moja nazwa ma tylko trzy litery",
+		"task": "Emu potrafią biegać bardzo szybko, nawet 50 km/h! Biegnij tak szybko jak potrafisz, stawiając przy tym długie kroki",
+		"photo": "https://images.unsplash.com/photo-1625416943289-94fb7d3c988d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"source": "Jeremy Bezanger (unsplash.com/@unarchive)"
+	},
+	{
+		"area": "Australia",
+		"animal": "KANGUR",
+		"question": "Jestem symbolem Australii, noszę swoje dzieci w specjalnej kieszonce na brzuchu",
+		"task": "Skacz jak kangur - wysoko, z rękami zgiętymi przy brzuchu",
+		"photo": "https://images.unsplash.com/photo-1575699914911-0027c7b95fb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"source": "Ondrej Machart (unsplash.com/@ondrejmachart)"
+	},
+	{
+		"area": "Australia",
+		"animal": "KRAB PALMOWY",
+		"question": "Nazywają mnie rabuś kokosowy lub złodziej palmowy. Mam tak silne szczypce, że potrafię rozłupać kokosa!",
+		"task": "Kraby palmowe potrafią uciekać tyłem. Poruszaj się do tyłu i udawaj, że masz szczypce",
+		"photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Palmyra_Atoll_National_Wildlife_Refuge%2C_Pacific_Islands_%286109853163%29.jpg",
+		"source": "Laura J. Beauregard (commons.wikimedia.org/wiki/File:Palmyra_Atoll_National_Wildlife_Refuge,_Pacific_Islands_(6109853163).jpg)"
+	},
+	{
+		"area": "Australia",
+		"animal": "KOALA",
+		"question": "Jako jedyny na świecie jem liście eukaliptusa. Dla wszystkich innych są one toksyczne",
+		"task": "Koale są mistrzami w trzymaniu się gałęzi drzew eukaliptusa. Uczep się stabilnego przedmiotu, aby nie dotykać nogami ziemi. Policz do pięciu",
+		"photo": "https://images.unsplash.com/photo-1459262838948-3e2de6c1ec80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+		"source": "Jordan Whitt (unsplash.com/@jwwhitt)"
+	},
+	{
+		"area": "Australia",
+		"animal": "DZIOBAK AUSTRALIJSKI",
+		"question": "Jestem bardzo dziwnym zwierzęciem. Mam trochę z kaczki, trochę z bobra. Jestem ssakiem, który składa jaja. Na dodatek jestem jadowity i pod wodą orientuję się dzięki elektroreceptorom",
+		"task": "Kończyny dziobaka są skierowane na boki. Połóż się na brzuchu i spróbuj podejść do przodu, trzymając ręce rozłożone na boki",
+		"photo": "https://images.unsplash.com/photo-1605687720340-696371e40e38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Meg Jerrard (unsplash.com/@mappingmegantravel)"
+	},
+	{
+		"area": "Azja",
+		"animal": "PANDA",
+		"question": "Jestem czarno-białym niedźwiedziem. Jestem drapieżnikiem, chociaż jem głównie pędy roślin",
+		"task": "Panda głównie je, je i je, a na deser odpoczywa. Pokaż wymyślne pozycje w jakich można jednocześnie odpoczywać i jeść",
+		"photo": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+		"source": "Sid Balachandran (unsplash.com/@itookthose)"
+	},
+	{
+		"area": "Azja",
+		"animal": "KOBRA KRÓLEWSKA",
+		"question": "Jestem królową jadowitych węży, bo jestem wśród nich najdłuższa. Mam kaptur, którym straszę moich przeciwników",
+		"task": "Potrafisz pełzać, podnieść górną część ciała i zasyczeć jak kobra?",
+		"photo": "https://images.unsplash.com/photo-1618029933990-91205b2a646d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Godwin Angeline Benjo (unsplash.com/@gabography)"
+	},
+	{
+		"area": "Azja",
+		"animal": "ORANGUTAN",
+		"question": "Jestem bardzo mądrą małpą, na przykład potrafię używać narzędzi. Mam długie ręce i czerwonawe długie włosy",
+		"task": "Wspinaj się i skacz jak małpka",
+		"photo": "https://images.unsplash.com/photo-1586778538929-ee34a8e9d8e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+		"source": "Dan Dennis (unsplash.com/@cameramandan83)"
+	},
+	{
+		"area": "Azja",
+		"animal": "NIEDŹWIEDŹ POLARNY",
+		"question": "Jestem misiem, który nie boi się zimna. Potrafię doskonale pływać",
+		"task": "Stań oparty na nogach i rękach, przechadzaj się, robiąc duże kroki, niczym niedźwiedź polarny",
+		"photo": "https://images.unsplash.com/photo-1609167839803-2563add6329e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Hans-Jurgen Mager (unsplash.com/@hansjurgen007)"
+	},
+	{
+		"area": "Azja",
+		"animal": "WIELBŁĄD DWUGARBNY BAKTRIAN",
+		"question": "Magazynuję w swoich dwóch garbach tłuszcz na zapas. Potrafię wypić dużo wody na raz i potem przez wiele dni mogę nic nie pić",
+		"task": "Wielbłądy są wykorzystywane jako zwierzęta juczne, czyli przenoszące rzeczy na grzbiecie. Przenieś na swoich plecach na odległość 5 metrów coś lekkiego",
+		"photo": "https://cdn.pixabay.com/photo/2021/09/26/11/56/animal-6657488_960_720.jpg",
+		"source": "pixabay.com/users/mariakray-23567841/"
+	},
+	{
+		"area": "Morza i oceany",
+		"animal": "DELFIN",
+		"question": "Jestem bardzo inteligentnym ssakiem, który mieszka w wodzie. Podczas snu, mam jedno oko otwarte i wynurzam się, żeby zaczerpnąć powietrza. Z moją rodziną potrafię porozumiewać się za pomocą gestów i dźwięków",
+		"task": "Delfiny robią w wodzie wspaniałe piruety. Spróbuj obracać się wokół własnej osi, machając się niczym ryba. Uważaj, bo może zakręcić ci się w głowie! Jeśli po kilku obrotach utrzymasz równowagę, wygrywasz",
+		"photo": "https://images.unsplash.com/photo-1562742686-0b38a29473ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+		"source": "unsplash.com/@noaa"
+	},
+	{
+		"area": "Morza i oceany",
+		"animal": "PINGWIN",
+		"question": "Jestem ptakiem, który nie lata, jednak świetnie pływa. Moje ciasno ułożone pióra i gruba warstwa tłuszczu chronią mnie przed zimnem",
+		"task": "Pingwiny mają bardzo krótkie nogi. Kucnij i przejdź kilka metrów. Czy kiwasz się tak jak pingwin?",
+		"photo": "https://images.unsplash.com/photo-1582487848573-13594ec0c394?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "unsplash.com/@longmaspirit"
+	},
+	{
+		"area": "Morza i oceany",
+		"animal": "ORKA",
+		"question": "Należę do rodziny delfinowatych, jestem czarna z białymi plamami. Gromadzę się w stadach, a każde stado porozumiewa się własnym dialektem",
+		"task": "Orki potrafią nauczyć się wielu sztuczek. Jedną z nich jest podrzucanie człowieka w powietrze. Znajdź miękki rekwizyt i podrzuć go wysoko w powietrze",
+		"photo": "https://images.unsplash.com/photo-1543431910-f9f3c6ad97c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+		"source": "Thomas Lipke (unsplash.com/@t_lipke)"
+	},
+	{
+		"area": "Morza i oceany",
+		"animal": "PŁETWAL BŁĘKITNY",
+		"question": "Jestem największym zwierzęciem na świecie, a moim pokarmem są malutkie organizmy wodne",
+		"task": "Wieloryby potrafią wykonywać widowiskowe skoki z wody. Czy potrafisz, podobnie jak wieloryb, podskoczyć i obrócić się wokół własnej osi?",
+		"photo": "https://images.unsplash.com/photo-1454991727061-be514eae86f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"source": "Thomas Kelley (unsplash.com/@thkelley)"
+	},
+	{
+		"area": "Morza i oceany",
+		"animal": "BŁAZENEK (Amfiprion plamisty)",
+		"question": "Żyję w strefie raf koralowych, mieszkam w miejscu, które innych parzy, tylko nie mnie. Mam piękne, pomarańczowo-białe, ubarwienie",
+		"task": "Ukryj się sprytnie, tak jak błazenek ukrywający się w ukwiale",
+		"photo": "https://images.unsplash.com/photo-1544552866-d3ed42536cfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"source": "Sebastian Pena Lambarri (unsplash.com/@sebaspenalambarri)"
+	}
+]
